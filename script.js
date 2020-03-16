@@ -1,3 +1,7 @@
+var verjaardag = new Date();
+document.getElementById("date").innerText = "het is " + verjaardag;
+
+
 function button() {
     const pi = 3.14;
 
